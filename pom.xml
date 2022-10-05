@@ -8,6 +8,11 @@
     <version>1.0-SNAPSHOT</version>
 <dependencies>
 	<dependency>
+	    <groupId>net.sourceforge.nekohtml</groupId>
+	    <artifactId>nekohtml</artifactId>
+	    <version>1.9.22</version>
+	</dependency>
+	<dependency>
 		<groupId>org.jsoup</groupId>
 		<artifactId>jsoup</artifactId>
 		<version>1.14.2</version>
